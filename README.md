@@ -20,6 +20,7 @@ I made a small dev board that uses a microcontroller to control an LED, letting 
 
 
 # CASE
+<img width="336" height="341" alt="image" src="https://github.com/user-attachments/assets/50f16b09-70e8-4430-a482-4d1437ed024a" />
 
 <img width="432" height="228" alt="image" src="https://github.com/user-attachments/assets/6b907d89-1b07-4f3b-92bf-c8d076f62f32" />
 
