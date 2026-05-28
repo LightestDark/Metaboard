@@ -1,5 +1,5 @@
 # Metaboard
-I made a small dev board that uses a microcontroller to control an LED, letting it turn on, off, or blink based on the code running on it. It’s a simple platform for testing firmware, GPIO control, and basic hardware–software interaction.
+I made a small development board that uses a microcontroller to control an LED, letting it turn on, off, or blink based on the code running on it. It’s a simple platform for testing firmware, GPIO control, and basic hardware–software interaction.
 
 # Production
 
